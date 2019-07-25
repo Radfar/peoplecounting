@@ -1,2 +1,2 @@
 # peoplecounting
-people counting using IoT to transfer daily data to cloud for further processing
+people counting using IoT methode to transfer data daily to cloud for further processing, use the combination of PIR and Ir couple and an intelligent algorithm to detect the people. 
